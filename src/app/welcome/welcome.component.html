@@ -1,0 +1,21 @@
+<nav class="navbar navbar-dark bg-dark">
+  <span class="navbar-brand mb-0 h1">Quiz App</span>
+</nav>
+<div class="row mx-5 welcome">
+
+  <h2 class="text-center my-3" id="welcome">Pick from these quizzes! </h2>
+  <div class="card-columns">
+
+    <div class="card" id="welcome-quiz-list" *ngFor="let quiz of quizzes">
+      <div class=" mx-auto" style="width: 18rem; height: 28rem">
+        <div class="card-body">
+          <h3 class="card-title">{{quiz.label}}</h3>
+          <img [src]="quiz.image" class="card-img-top mt-4 img-fluid">
+          <p class="card-text mt-4">{{quiz.description}}</p>
+
+        </div>
+      </div>
+      <a routerLink="/{{quiz.name}}" class="btn btn-dark btn-lg btn-block mx-auto">{{quiz.label}}</a>
+
+    </div>
+  </div>

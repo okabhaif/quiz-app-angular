@@ -1,0 +1,20 @@
+<nav class="navbar navbar-dark bg-dark">
+  <span class="navbar-brand mb-0 h1">Quiz App</span>
+  <a routerLink="/welcome" class="btn btn-dark ml-auto">Choose another quiz</a>
+
+</nav>
+
+<div *ngIf="quiz && !questions" class="spinner-grow text-primary"></div>
+
+<div class="container quiz" *ngIf="questions">
+
+  <div class="questions" *ngIf="!showResults">
+    <app-question-form [question]="questions[currentQuestionIndex]" (onChoiceMade)="updateChoice($event)">
+    </app-question-form>
+
+    <button class="btn btn-dark ml-3" (click)="nextOrViewResults()"
+      [disabled]="!answers.values[currentQuestionIndex]">{{currentQuestionIndex === questions.length - 1 ? 'View results' : 'Next'}}</button>
+  </div>
+
+  <app-results *ngIf="showResults" [answers]="answers"></app-results>
+</div>

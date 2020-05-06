@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Maths",
+    "name": "maths",
+    "description": "Questions about maths",
+    "image": "assets/img/maths.png",
+    "fileName": "maths.json"
+  },
+  {
+    "label": "Harry Potter",
+    "name": "HarryPotter",
+    "description": "Questions about the Harry Potter Franchise",
+    "image": "assets/img/harrypotterlogo.png",
+    "fileName": "HarryPotter.json"
+  }
+]
