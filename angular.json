@@ -18,7 +18,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/quiz-app-angular",
-            "baseHref": "https://okabhaif.github.io/quiz-app-angular/",
+            "baseHref": "/",
             "deployUrl": "https://okabhaif.github.io/quiz-app-angular/",
             "index": "src/index.html",
             "main": "src/main.ts",
