@@ -1,0 +1,338 @@
+[
+  {
+    "label": "Which of these is NOT an animagus?",
+    "choices": [
+      {
+        "value": "Sirius Black",
+        "correct": false
+      },
+      {
+        "value": "Remus Lupin",
+        "correct": true
+      },
+      {
+        "value": "Peter Pettigrew",
+        "correct": false
+      },
+      {
+        "value": "James Potter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which is the house ghost of Hufflepuff?",
+    "choices": [
+      {
+        "value": "The Fat Friar",
+        "correct": true
+      },
+      {
+        "value": "Nearly Headless Nick",
+        "correct": false
+      },
+      {
+        "value": "The Gray Lady",
+        "correct": false
+      },
+      {
+        "value": "The Bloody Baron",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What establishment does Aberforth Dumbledore own and run?",
+    "choices": [
+      {
+        "value": "The Leaky Cauldron",
+        "correct": false
+      },
+      {
+        "value": "Three Broomsticks",
+        "correct": false
+      },
+      {
+        "value": "Honeydukes",
+        "correct": false
+      },
+      {
+        "value": "Hog's Head Inn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Which of these is NOT used to protect the Philosopher's Stone?",
+    "choices": [
+      {
+        "value": "Flying Keys",
+        "correct": false
+      },
+      {
+        "value": "Mountain Troll",
+        "correct": false
+      },
+      {
+        "value": "Cornish Pixes",
+        "correct": true
+      },
+      {
+        "value": "Three Headed Dog",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Who does Harry accidentally blow up, before running away?",
+    "choices": [
+      {
+        "value": "Petunia Dursley",
+        "correct": false
+      },
+      {
+        "value": "Patricia Dursley",
+        "correct": false
+      },
+      {
+        "value": "Margret Dursley",
+        "correct": false
+      },
+      {
+        "value": "Marge Dursley",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Which of the following is NOT a shop in Diagon Alley?",
+    "choices": [
+      {
+        "value": "Madam Malkin's Robes for All Occasions",
+        "correct": false
+      },
+      {
+        "value": "Flourish & Blott's",
+        "correct": false
+      },
+      {
+        "value": "Eeylops Owl Emporium",
+        "correct": false
+      },
+      {
+        "value": "Honeydukes",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What type of magical creature is Buckbeak?",
+    "choices": [
+      {
+        "value": "Eagle",
+        "correct": false
+      },
+      {
+        "value": "Hypogriff",
+        "correct": true
+      },
+      {
+        "value": "Dragon",
+        "correct": false
+      },
+      {
+        "value": "Thestral",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of these was NOT a member of the slug club?",
+    "choices": [
+      {
+        "value": "Ginny Weasley",
+        "correct": false
+      },
+      {
+        "value": "Hermione Granger",
+        "correct": false
+      },
+      {
+        "value": "Draco Malfoy",
+        "correct": true
+      },
+      {
+        "value": "Harry Potter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of these was not a triwizard champion ",
+    "choices": [
+      {
+        "value": "Fleur Delacour",
+        "correct": false
+      },
+      {
+        "value": "Igor Karkarov",
+        "correct": true
+      },
+      {
+        "value": "Viktor Krum",
+        "correct": false
+      },
+      {
+        "value": "Harry Potter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of the Weasley brothers went to Romania to study dragons? ",
+    "choices": [
+      {
+        "value": "Bill",
+        "correct": false
+      },
+      {
+        "value": "Percy",
+        "correct": false
+      },
+      {
+        "value": "Charlie",
+        "correct": true
+      },
+      {
+        "value": "Arthur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which quidditch position did Oliver Wood play?",
+    "choices": [
+      {
+        "value": "Seeker",
+        "correct": false
+      },
+      {
+        "value": "Beater",
+        "correct": false
+      },
+      {
+        "value": "Keeper",
+        "correct": true
+      },
+      {
+        "value": "Chaser",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which ghost teaches History of Magic at Hogwarts?",
+    "choices": [
+      {
+        "value": "Moaning Myrtle",
+        "correct": false
+      },
+      {
+        "value": "Sir Nicholas de Mimsy-Porpington",
+        "correct": false
+      },
+      {
+        "value": "Sir Patrick Delaney-Podmore ",
+        "correct": true
+      },
+      {
+        "value": "Cuthbert Binns",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Who gave Neville his pet toad?",
+    "choices": [
+      {
+        "value": "Algie",
+        "correct": true
+      },
+      {
+        "value": "Augusta",
+        "correct": false
+      },
+      {
+        "value": "Alice",
+        "correct": false
+      },
+      {
+        "value": "Frank",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the name of the Weasley's house?",
+    "choices": [
+      {
+        "value": "The Den",
+        "correct": false
+      },
+      {
+        "value": "The Burrow",
+        "correct": true
+      },
+      {
+        "value": "The Heights",
+        "correct": false
+      },
+      {
+        "value": "The Cave",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which subject does Hagrid teach?",
+    "choices": [
+      {
+        "value": "Defence Against the Dark Arts",
+        "correct": false
+      },
+      {
+        "value": "Herbology",
+        "correct": true
+      },
+      {
+        "value": "Care of Magical Creatures",
+        "correct": false
+      },
+      {
+        "value": "History of Magic",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which subject does Hagrid teach?",
+    "choices": [
+      {
+        "value": "Defence Against the Dark Arts",
+        "correct": false
+      },
+      {
+        "value": "Herbology",
+        "correct": true
+      },
+      {
+        "value": "Care of Magical Creatures",
+        "correct": false
+      },
+      {
+        "value": "History of Magic",
+        "correct": false
+      }
+    ]
+  }
+]
