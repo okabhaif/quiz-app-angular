@@ -40,8 +40,8 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "baseHref": "/quiz-app-angular/",
-              "deployUrl": "/quiz-app-angular/",
+              "baseHref": "https://okabhaif.github.io/quiz-app-angular/",
+              "deployUrl": "https://okabhaif.github.io/quiz-app-angular/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
