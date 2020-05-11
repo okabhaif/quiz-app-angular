@@ -18,8 +18,6 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/quiz-app-angular",
-            "baseHref": "/quiz-angular-app",
-            "deployUrl": "/quiz-angular-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -42,6 +40,8 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
+              "baseHref": "/quiz-app-angular/",
+              "deployUrl": "/quiz-app-angular/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
