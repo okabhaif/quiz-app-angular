@@ -35,7 +35,7 @@ const appRoutes: Routes = [
 
   ],
   providers: [
-    { provide: APP_BASE_HREF, useValue: environment.production ? '/' : 'quiz-app-angular' }
+    { provide: APP_BASE_HREF, useValue: environment.production ? '/quiz-app-angular/' : '/' }
   ],
   bootstrap: [AppComponent]
 })
